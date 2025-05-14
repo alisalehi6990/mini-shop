@@ -19,7 +19,6 @@ A small online shop built with [Next.js](https://nextjs.org/), [Zustand](https:/
 - **Styling:** Tailwind CSS
 
 ## Styling
-
 This project uses [Tailwind CSS](https://tailwindcss.com/) for utility-first styling.  
 You can customize styles in the `tailwind.config.js` file.
 
